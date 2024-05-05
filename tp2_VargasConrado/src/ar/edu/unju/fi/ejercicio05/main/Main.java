@@ -1,0 +1,10 @@
+package ar.edu.unju.fi.ejercicio05.main;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Esbozo de método generado automáticamente
+
+	}
+
+}
